@@ -1,0 +1,37 @@
+[VERSION 1.0.0]
+{ENGLISH}
+TITLE: Exciting New Features
+DATE: July 15, 2024
+CONTENT:
+<ul>
+    <li>Introduced an advanced AI assistant for gameplay tips</li>
+    <li>Redesigned user interface for better accessibility</li>
+    <li>Added new customization options for characters</li>
+</ul>
+{SPANISH}
+TITLE: Nuevas Características Emocionantes
+DATE: 15 de julio de 2024
+CONTENT:
+<ul>
+    <li>Se introdujo un asistente de IA avanzado para consejos de juego</li>
+    <li>Interfaz de usuario rediseñada para mejor accesibilidad</li>
+    <li>Se agregaron nuevas opciones de personalización para personajes</li>
+</ul>
+
+Above is an example. I want you to add: Spanish, French, German, Russian, Brazilian, Polish, and Danish to the new, provided one.
+
+
+
+New:
+[VERSION 1.4.0]
+{ENGLISH}
+TITLE: Added detection for cheats
+DATE: July 16, 2024
+CONTENT:
+<ul>
+    <li>Detected users with bhop.</li>
+</ul>
+
+Ensure that the languages are capitalizes, the translations are correct, and you have the exact spelling of the language as provided.
+
+Respond with: OK, here ```...```.
