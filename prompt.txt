@@ -25,12 +25,10 @@ Above is an example. I want you to add: Spanish, French, German, Russian, Brazil
 New:
 [VERSION 1.4.0]
 {ENGLISH}
-TITLE: Added detection for cheats
-DATE: July 16, 2024
+TITLE: REPLACE ME 1
+DATE: REPLACE ME 2
 CONTENT:
-<ul>
-    <li>Detected users with bhop.</li>
-</ul>
+REPLACE ME 3
 
 Ensure that the languages are capitalizes, the translations are correct, and you have the exact spelling of the language as provided.
 
