@@ -115,7 +115,31 @@ CONTENT:
     -webkit-user-select: none;
     -moz-user-select: none;
     box-sizing: border-box;
+    scrollbar-width: thin;
+    scrollbar-color: rgb(89, 91, 97) rgb(37, 39, 45);
 }
+
+::-webkit-scrollbar {
+    width: 14px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgb(37, 39, 45);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(89, 91, 97);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(89, 91, 97, 0.94);
+}
+
+::-webkit-scrollbar-button {
+    background-color: rgb(66, 69, 77);
+    height: 14px;
+}
+
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -124,6 +148,9 @@ body {
     margin: 0;
     padding: 30px;
     line-height: 1.6;
+    scrollbar-face-color: rgb(89, 91, 97);
+    scrollbar-track-color: rgb(37, 39, 45);
+    scrollbar-arrow-color: rgb(66, 69, 77);
 }
 
 .container {
